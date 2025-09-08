@@ -1,6 +1,5 @@
 ## Hi, I'm Bargan Diana Georgiana 👋
 
-🎓 Master’s in Data Mining, UAIC Iași  
+🎓 Master’s degree in Data Mining, field: Cybernetics and Statistics, UAIC Iași  
 🎓 Bachelor’s in Mathematics & Computer Science, UAIC Iași  
-🌍 Based in Iași, Romania  
-💻 Interested in Data Science, Machine Learning
+💻 Interested in Data Science, Machine Learning with a strong focus on Statistics and Applied Mathematics
