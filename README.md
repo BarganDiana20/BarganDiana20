@@ -9,9 +9,6 @@
 💻 Interested in Data Science, Machine Learning with a strong focus on Statistics and Applied Mathematics  
 
 ## Find me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/)
-
-<br/> 
-
 ## Skills:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -22,3 +19,5 @@
 ![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 ![RMarkdown](https://img.shields.io/badge/RMarkdown-red?style=for-the-badge&logo=RMarkdown&logoColor=white)&nbsp;
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
+
+<br/> 
