@@ -7,16 +7,8 @@
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/) | [Email](georgiana_bargan@yahoo.com)  
 
 **HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization)  
-**TECHNICAL SKILLS:**  
+**TECHNICAL SKILLS:**
 + **Programming Languages:** SQL, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn), Java, C#, C++  
 + **Big Data:** Hadoop, PySpark  
 + **Databases:** PostgreSQL, MongoDB, MySQL  
 + **Tools:** PowerBI, Matlab
-
-<p><strong>TECHNICAL SKILLS:</strong></p>
-<ul style="margin-top:0;">
-  <li><strong>Programming Languages:</strong> SQL, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn), Java, C#, C++</li>
-  <li><strong>Big Data:</strong> Hadoop, PySpark</li>
-  <li><strong>Databases:</strong> PostgreSQL, MongoDB, MySQL</li>
-  <li><strong>Tools:</strong> PowerBI, Matlab</li>
-</ul>
