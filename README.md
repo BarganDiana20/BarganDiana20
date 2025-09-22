@@ -11,5 +11,16 @@
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/)
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-38B2AC?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Melisa-Di-Giacomo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melisadigiacomo/melisadigiacomo)
+
+<br/> 
+
+## Skills:
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Office-c43f1d?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-edbd11?style=for-the-badge&logo=powerBI&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JupyterNotebooks](https://img.shields.io/badge/Jupyter-D83B01?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![RMarkdown](https://img.shields.io/badge/RMarkdown-red?style=for-the-badge&logo=RMarkdown&logoColor=white)&nbsp;
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
