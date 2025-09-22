@@ -1,4 +1,4 @@
-## Portfolio 
+## Portfolio PORTOFOLIO 
 
 👋 Hello everyone !  
    My name is Bargan Diana-Georgiana and I am from Romania.    
