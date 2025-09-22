@@ -7,7 +7,7 @@
 
    **Finde me at:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/)&nbsp; [![Email me](https://img.shields.io/badge/Email-Yahoo?style=for-the-badge&logo=yahoo&logoColor=white)](georgiana_bargan@yahoo.com)  
 
-**HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization)
+**HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization)  
 **TECHNICAL SKILLS:**  
 **Programming Languages:** SQL, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn), Java, C#, C++  
 **Big Data:** Hadoop, PySpark  
