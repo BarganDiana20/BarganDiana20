@@ -18,3 +18,5 @@
 ### Database: ![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white)&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
 
 <br/> 
+### Hard Skills:
+![Data Mining](https://img.shields.io/badge/Data%20Mining-02569B?style=for-the-badge)&nbsp;
