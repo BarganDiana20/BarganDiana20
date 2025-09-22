@@ -10,7 +10,7 @@
 
 ## FINDE ME AT:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/)
-[![Email me](https://img.shields.io/badge/Email-Yahoo?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:georgiana_bargan@yahoo.com)
+[![Email me](https://img.shields.io/badge/Email-Yahoo?style=for-the-badge&logo=yahoo&logoColor=white)](georgiana_bargan@yahoo.com)
 
 ## SKILLS:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
