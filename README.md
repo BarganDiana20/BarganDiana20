@@ -13,9 +13,10 @@
 [![Email me](https://img.shields.io/badge/Email-Yahoo?style=for-the-badge&logo=yahoo&logoColor=white)](georgiana_bargan@yahoo.com)
 
 ## SKILLS:
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
+### Programming Languages: ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp; ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+
+### Database: [![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?logo=postgresql&logoColor=white)]&nbsp; [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)]&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
+
 ![Microsoft Office](https://img.shields.io/badge/Office-c43f1d?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-edbd11?style=for-the-badge&logo=powerBI&logoColor=black)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
