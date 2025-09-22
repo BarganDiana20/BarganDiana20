@@ -9,7 +9,7 @@
 
 **HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization)  
 **TECHNICAL SKILLS:**  
-**Programming Languages:** SQL, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn), Java, C#, C++  
-**Big Data:** Hadoop, PySpark  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**Tools:** PowerBI, Matlab
++ **Programming Languages:** SQL, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn), Java, C#, C++  
++ **Big Data:** Hadoop, PySpark  
++ **Databases:** PostgreSQL, MongoDB, MySQL  
++ **Tools:** PowerBI, Matlab
