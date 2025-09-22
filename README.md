@@ -2,7 +2,7 @@
 
 👋 Hello everyone !  
 
-My name is I'm Bargan Diana Georgiana and I am from Romania. 
+My name is Bargan Diana-Georgiana and I am from Romania. 
 
 🎓 **Master’s degree in Data Mining, field: Cybernetics and Statistics**, at "Alexandru Ioan Cuza" University of Iasi (UAIC)  
 🎓 **Bachelor’s in Mathematics & Computer Science**, at "Alexandru Ioan Cuza" University of Iasi (UAIC)  
