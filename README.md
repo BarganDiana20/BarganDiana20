@@ -1,4 +1,4 @@
-## Portfolio PORTOFOLIO 
+## PORTOFOLIO 
 
 👋 Hello everyone !  
    My name is Bargan Diana-Georgiana and I am from Romania.    
@@ -8,8 +8,8 @@
    
 💻 Interested in Data Science, Machine Learning with a strong focus on Statistics and Applied Mathematics  
 
-## Find me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/)
-## Skills:
+## FINDE ME AT: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/)
+## SKILLS:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mySQL&logoColor=white)&nbsp;
