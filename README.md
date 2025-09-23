@@ -15,8 +15,11 @@
 
 Check out my projects:  
 + [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
-+ [Project-SQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/Project-SQL-Human-Resources)  
-+ [Project-PySpark-Hadoop(Big Data)](https://github.com/BarganDiana20/Project-PySpark-Hadoop)  
-+ [WinForms-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)
++ [Project-SQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/Project-SQL-Human-Resources)
++ [Project-Python-Invoice-Analysis-Dashboard](https://github.com/BarganDiana20/Project-Python-Invoice-Analysis-Dashboard)  
++ [Project-PySpark-Hadoop(Big Data)](https://github.com/BarganDiana20/Project-PySpark-Hadoop)
++ [Project_BigData_Spark_and_R](https://github.com/BarganDiana20/Project_BigData_Spark_and_R)  
++ [WinForms-C#-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)  
++ [Project_PowerBI_Sales_Data_Dashboard](https://github.com/BarganDiana20/Project_PowerBI_Sales_Data_Dashboard)  
   
 
