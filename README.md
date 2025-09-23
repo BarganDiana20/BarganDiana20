@@ -13,5 +13,10 @@
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 - **Tools:** PowerBI, Matlab
 
-Check out my projects: [WinForms-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)
+Check out my projects:  
++ [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
++ [Project-SQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/Project-SQL-Human-Resources)  
++ [Project-PySpark-Hadoop(Big Data)](https://github.com/BarganDiana20/Project-PySpark-Hadoop)  
++ [WinForms-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)
+  
 
