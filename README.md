@@ -13,7 +13,7 @@
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 - **Tools:** PowerBI, Matlab
 
-Check out my projects:  
+**Check out my projects**:  
 + [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
 + [Project-SQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/Project-SQL-Human-Resources)
 + [Project-Python-Invoice-Analysis-Dashboard](https://github.com/BarganDiana20/Project-Python-Invoice-Analysis-Dashboard)  
