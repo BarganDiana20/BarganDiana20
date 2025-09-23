@@ -12,3 +12,6 @@
 - **Big Data:** Hadoop, PySpark  
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 - **Tools:** PowerBI, Matlab
+
+Check out my projects: [WinForms-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)
+
