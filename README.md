@@ -23,10 +23,9 @@
 + [Project_PowerBI_Sales_Data_Dashboard](https://github.com/BarganDiana20/Project_PowerBI_Sales_Data_Dashboard)
 + [Project-Java-ConicSectionGrapher](https://github.com/BarganDiana20/ConicSectionGrapher)
 
-Lista 1        | Lista 2
--------------- | --------------
-- Item 1       | - Item A
-- Item 2       | - Item B
+| Coloana 1 | Coloana 2 |
+|-----------|-----------|
+| - Item 1<br>- Item 2 | - Item A<br>- Item B |
 
   
 
