@@ -24,8 +24,29 @@
 + [Project-Java-ConicSectionGrapher](https://github.com/BarganDiana20/ConicSectionGrapher)
 
 
-|-----------|-----------|
-| - Item 1<br>- Item 2 | - Item A<br>- Item B |
+<div style="display: flex; gap: 40px;">
+  <div>
+    <ul>
+      <li>Item 1
+        <ul>
+          <li>Subitem 1.1</li>
+          <li>Subitem 1.2</li>
+        </ul>
+      </li>
+      <li>Item 2</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>Item A
+        <ul>
+          <li>Subitem A.1</li>
+        </ul>
+      </li>
+      <li>Item B</li>
+    </ul>
+  </div>
+</div>
 
   
 
