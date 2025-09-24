@@ -20,7 +20,8 @@
 + [Project-Python-Invoice-Analysis-Dashboard](https://github.com/BarganDiana20/Project-Python-Invoice-Analysis-Dashboard)  
 + [Project-PySpark-Hadoop(Big Data)](https://github.com/BarganDiana20/Project-PySpark-Hadoop)
 + [Project_BigData_Spark_and_R](https://github.com/BarganDiana20/Project_BigData_Spark_and_R)  
-+ [WinForms-C#-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)  
++ [WinForms-C#-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)
++ [WinForms-C#-AbstractPainting](https://github.com/BarganDiana20/WinForms-AbstractPainting)  
 + [Project_PowerBI_Sales_Data_Dashboard](https://github.com/BarganDiana20/Project_PowerBI_Sales_Data_Dashboard)
 + [Project-Java-ConicSectionGrapher](https://github.com/BarganDiana20/ConicSectionGrapher)
 
