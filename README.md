@@ -6,7 +6,7 @@
 💻 Interested in Data Science, Machine Learning with a strong focus on Statistics and Applied Mathematics.    
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/) | [Email](georgiana_bargan@yahoo.com)  
 
-**HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization)  
+**HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization), Decision Trees, Neural Networks, Text Data Statistical Processing, Bayesian Statistics.
 **TECHNICAL SKILLS:** 
 - **Programming Languages:** SQL, R, Python (Tkinter, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn), Java, C#, C++  
 - **Big Data:** Hadoop, PySpark  
