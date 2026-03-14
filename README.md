@@ -6,13 +6,13 @@
 💻 Interested in Software Engineering, Data Science, and Machine Learning, with a strong foundation in Statistics and Applied Mathematics.      
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/) | [Email](georgiana_bargan@yahoo.com)  
 
-**HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization), Decision Trees, Neural Networks, Text Data Statistical Processing, Bayesian Statistics.  
-**TECHNICAL SKILLS:** 
-- **Programming Languages:** Java, SQL, C#, C++, R, Python (Tkinter, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask)
-- **Software Engineering:** Spring Boot, REST APIs, Object-Oriented Programming (OOP), Unit Testing (JUnit, PyTest)  
+**HARD SKILLS:** Data Structures, Algorithms & Problem Solving, Object-Oriented Programming (OOP), REST API Design, Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization), Decision Trees, Neural Networks, Text Data Statistical Processing, Bayesian Statistics.  
+**TECHNICAL SKILLS:**
+- **Programming Languages:** Java, SQL, C#, C++, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask, Tkinter)
+- **Software Engineering:** Spring Boot, Unit Testing (JUnit, PyTest)  
 - **Big Data:** Hadoop, PySpark    
-- **Databases:** PostgreSQL, MongoDB, MySQL    
-- **Tools & Tehnologies:** Git, PowerBI, Matlab  
+- **Databases:** MySQL, PostgreSQL, MongoDB    
+- **Tools & Technologies:** Git, Power BI, MATLAB  
 
 **Check out my projects**:  
 + [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
