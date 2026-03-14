@@ -9,8 +9,9 @@
 **HARD SKILLS:** Data Structures, Algorithms & Problem Solving, Object-Oriented Programming (OOP), REST API Design, Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization), Decision Trees, Neural Networks, Text Data Statistical Processing, Bayesian Statistics.  
 
 **TECHNICAL SKILLS:**
-- **Programming Languages:** Java, SQL, C#, C++, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask, Tkinter)
-- **Software Engineering:** Spring Boot, Unit Testing (JUnit, PyTest)  
+- **Programming Languages:** Java, JavaScript, SQL, C#, C++, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask, Tkinter)
+- **Software Engineering:** Spring Boot, Unit Testing (JUnit, PyTest)
+- **Web Development:** HTML, CSS 
 - **Big Data:** Hadoop, PySpark    
 - **Databases:** MySQL, PostgreSQL, MongoDB   
 - **Tools & Technologies:** Git, Power BI, MATLAB  
