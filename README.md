@@ -3,15 +3,16 @@
    My name is Bargan Diana-Georgiana and I am from Romania.    
 🎓 **Master’s degree in Data Mining, field: Cybernetics and Statistics**, at "Alexandru Ioan Cuza" University of Iasi (UAIC) and  
 🎓 **Bachelor’s in Mathematics & Computer Science**, at "Alexandru Ioan Cuza" University of Iasi (UAIC)   
-💻 Interested in Data Science, Machine Learning with a strong focus on Statistics and Applied Mathematics.    
+💻 Interested in Software Engineering, Data Science, and Machine Learning, with a strong foundation in Statistics and Applied Mathematics.      
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/) | [Email](georgiana_bargan@yahoo.com)  
 
 **HARD SKILLS:** Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization), Decision Trees, Neural Networks, Text Data Statistical Processing, Bayesian Statistics.  
 **TECHNICAL SKILLS:** 
-- **Programming Languages:** SQL, R, Python (Tkinter, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn), Java, C#, C++  
-- **Big Data:** Hadoop, PySpark  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
-- **Tools:** PowerBI, Matlab
+- **Programming Languages:** Java, SQL, C#, C++, R, Python (Tkinter, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask)
+- **Software Engineering:** Spring Boot, REST APIs, Object-Oriented Programming (OOP), Unit Testing (JUnit, PyTest)  
+- **Big Data:** Hadoop, PySpark    
+- **Databases:** PostgreSQL, MongoDB, MySQL    
+- **Tools & Tehnologies:** Git, PowerBI, Matlab  
 
 **Check out my projects**:  
 + [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
