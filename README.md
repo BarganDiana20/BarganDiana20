@@ -12,7 +12,7 @@
 - **Programming Languages:** Java, SQL, C#, C++, R, Python (Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Flask, Tkinter)
 - **Software Engineering:** Spring Boot, Unit Testing (JUnit, PyTest)  
 - **Big Data:** Hadoop, PySpark    
-- **Databases:** MySQL, PostgreSQL, MongoDB    
+- **Databases:** MySQL, PostgreSQL, MongoDB   
 - **Tools & Technologies:** Git, Power BI, MATLAB  
 
 **Check out my projects**:  
