@@ -20,13 +20,14 @@
 + [PaymentEngine - Java, Spring Boot, REST API, MySQL, HTML/CSS/JS](https://github.com/BarganDiana20/PaymentEngine)  
 + [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
 + [Project-SQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/Project-SQL-Human-Resources)
-+ [Py-Sudoku-Backtracking-App](https://github.com/BarganDiana20/Py-Sudoku-Backtracking-App)  
-+ [Project-Python-Invoice-Analysis-Dashboard](https://github.com/BarganDiana20/Project-Python-Invoice-Analysis-Dashboard)  
++ [Py-Sudoku-Backtracking-App](https://github.com/BarganDiana20/Py-Sudoku-Backtracking-App)
++ [Project-Java-ConicSectionGrapher](https://github.com/BarganDiana20/ConicSectionGrapher)
 + [Project-PySpark-Hadoop(Big Data)](https://github.com/BarganDiana20/Project-PySpark-Hadoop)
-+ [Project_BigData_Spark_and_R](https://github.com/BarganDiana20/Project_BigData_Spark_and_R)  
++ [Project_BigData_Spark_and_R](https://github.com/BarganDiana20/Project_BigData_Spark_and_R)
++ [Project-Python-Invoice-Analysis-Dashboard](https://github.com/BarganDiana20/Project-Python-Invoice-Analysis-Dashboard)  
 + [WinForms-C#-CubicEquationSolver](https://github.com/BarganDiana20/WinForms-CubicEquationSolver)
 + [WinForms-C#-AbstractPainting](https://github.com/BarganDiana20/WinForms-AbstractPainting)  
 + [Project_PowerBI_Sales_Data_Dashboard](https://github.com/BarganDiana20/Project_PowerBI_Sales_Data_Dashboard)
-+ [Project-Java-ConicSectionGrapher](https://github.com/BarganDiana20/ConicSectionGrapher)
+
 
 
