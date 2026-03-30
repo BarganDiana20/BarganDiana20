@@ -13,11 +13,11 @@
 - **Backend & Software Engineering:** Spring Boot, REST APIs, Unit Testing (JUnit)
 - **Web Development:** HTML, CSS
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Data Analysis and Visualization:** SPSS, Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- **Data Analysis and Visualization:** SPSS, Pandas, NumPy, SciPy, Matplotlib, Seaborn, ggplot2, tidyverse, data.table
 - **Machine Learning & Deep Learning:**
    - Built and evaluated ML models in R and Python
-   - Techniques: Regression, Classification, Clustering, Neural Networks
-   - Experience with: tidymodels, caret, Scikit-learn
+   - Techniques: Regression, Classification, Clustering, Neural Networks (MLP, RBF)
+   - Experience with Python and R libraries: Scikit-learn, tidymodels, caret, randomForest, xgboost, rpart, nnet, neuralnet
    - Implemented: Model training, feature selection, hyperparameter tuning, model evaluation, handling imbalanced datasets
 - **Big Data:** Apache Spark (PySpark, sparklyr), Hadoop
 - **Tools:** Git, Power BI, MATLAB**
