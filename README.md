@@ -4,7 +4,7 @@
 🎓 **Master’s degree in Data Mining, field: Cybernetics and Statistics**, at "Alexandru Ioan Cuza" University of Iasi (UAIC) and  
 🎓 **Bachelor’s in Mathematics & Computer Science**, at "Alexandru Ioan Cuza" University of Iasi (UAIC)   
 💻 Interested in Software Engineering, Data Science, and Machine Learning, with a strong foundation in Statistics and Applied Mathematics.      
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/diana-georgiana-bargan-2a932632a/) | [Email](georgiana_bargan@yahoo.com)  
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/diana-georgiana-bargan/) | [Email](georgiana_bargan@yahoo.com)  
 
 **HARD SKILLS:** Data Structures, Algorithms & Problem Solving, Object-Oriented Programming (OOP), REST API Design, Data Analysis, Data Cleaning, Machine Learning (Regression, Classification, Clustering, Model Optimization), Decision Trees, Neural Networks, Text Data Statistical Processing, Bayesian Statistics.  
 
