@@ -25,7 +25,7 @@
 **Check out my projects**:  
 + [PaymentEngine-Java, Spring Boot, MySQL, HTML/CSS/JS](https://github.com/BarganDiana20/PaymentEngine)  
 + [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
-+ [Project-SQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/Project-SQL-Human-Resources)
++ [Project-PostgreSQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/PostgreSQL-Human-Resources)
 + [Py-Sudoku-Backtracking-App](https://github.com/BarganDiana20/Py-Sudoku-Backtracking-App)
 + [Project-Java-ConicSectionGrapher](https://github.com/BarganDiana20/ConicSectionGrapher)
 + [Project-PySpark-Hadoop(Big Data)](https://github.com/BarganDiana20/Project-PySpark-Hadoop)
