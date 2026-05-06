@@ -27,7 +27,7 @@
 + [Project-SQL-and-MongoDB-dental-clinic](https://github.com/BarganDiana20/Project-SQL-and-MongoDB-dental-clinic)  
 + [Project-PostgreSQL: Employee Payroll and Human Resources Management Database](https://github.com/BarganDiana20/Project-PostgreSQL-Human-Resources)
 + [Py-Sudoku-Backtracking-App](https://github.com/BarganDiana20/Py-Sudoku-Backtracking-App)
-+ [Project-Java-ConicSectionGrapher](https://github.com/BarganDiana20/ConicSectionGrapher)
++ [Project-Java-ConicSectionVisualizer](https://github.com/BarganDiana20/ConicSectionVisualizer)
 + [Project-PySpark-Hadoop(Big Data)](https://github.com/BarganDiana20/Project-PySpark-Hadoop)
 + [Project_BigData_Spark_and_R](https://github.com/BarganDiana20/Project_BigData_Spark_and_R)
 + [Project-Python-Invoice-Analysis-Dashboard](https://github.com/BarganDiana20/Project-Python-Invoice-Analysis-Dashboard)  
